@@ -8,4 +8,4 @@ Now typing `g <args>` will add, commit using the `<args>` as message and push!
 
 No quotes required - 3 steps becomes one step
 
-![Example 1](media/ex.gif)
+![Example 1](media/examp.gif)
